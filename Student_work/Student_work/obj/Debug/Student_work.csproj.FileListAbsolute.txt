@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\Ебучая алгоритмика\2 семестр\Student_work\Student_work\bin\Debug\Student_work.exe.config
+\\Mac\Home\Desktop\Ебучая алгоритмика\2 семестр\Student_work\Student_work\bin\Debug\Student_work.exe
+\\Mac\Home\Desktop\Ебучая алгоритмика\2 семестр\Student_work\Student_work\bin\Debug\Student_work.pdb
+\\Mac\Home\Desktop\Ебучая алгоритмика\2 семестр\Student_work\Student_work\obj\Debug\Student_work.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Ебучая алгоритмика\2 семестр\Student_work\Student_work\obj\Debug\Student_work.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Ебучая алгоритмика\2 семестр\Student_work\Student_work\obj\Debug\Student_work.Student_work.resources
+\\Mac\Home\Desktop\Ебучая алгоритмика\2 семестр\Student_work\Student_work\obj\Debug\Student_work.Properties.Resources.resources
+\\Mac\Home\Desktop\Ебучая алгоритмика\2 семестр\Student_work\Student_work\obj\Debug\Student_work.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Ебучая алгоритмика\2 семестр\Student_work\Student_work\obj\Debug\Student_work.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Ебучая алгоритмика\2 семестр\Student_work\Student_work\obj\Debug\Student_work.exe
+\\Mac\Home\Desktop\Ебучая алгоритмика\2 семестр\Student_work\Student_work\obj\Debug\Student_work.pdb
